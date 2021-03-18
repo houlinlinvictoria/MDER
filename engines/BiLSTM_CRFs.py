@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time : 2019/6/2 上午10:55
-# @Author : Scofield Phil
+# @Author : Linlin Hou
 # @FileName: BiLSTM_CRFs.py
 # @Project: sequence-lableing-vex
 
