@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time : 2019/6/2 上午10:52
-# @Author : Scofield Phil
+# @Author : Linlin Hou
 # @FileName: Parser.py
 # @Project: sequence-lableing-vex
 import sys
